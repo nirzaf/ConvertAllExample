@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ConvertAllExample
 {
-    class Program
+    internal class Program
     {
         static void Main()
         {
